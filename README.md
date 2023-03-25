@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I'm a passionate high school student with experience in competitive programming and machine learning. With a strong background in algorithms and problem-solving, I've competed in various programming competitions. On my GitHub profile, you'll find a collection of projects that showcase my dedication to programming and machine learning. Thank you for visiting my profile!
+I'm a passionate high school student with experience in competitive programming and machine learning. With a background in algorithms and problem-solving, I've competed in various programming competitions. On my GitHub profile, you'll find a collection of projects that showcase my dedication to programming and machine learning. Thank you for visiting my profile!
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [theeradon\_s@kvis.ac.th](mailto:theeradon_s@kvis.ac.th)
