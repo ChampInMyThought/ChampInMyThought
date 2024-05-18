@@ -7,7 +7,7 @@ Medical Student
 I'm a medical student with experience in competitive programming and machine learning. With a background in algorithms and problem-solving, I've competed in various programming competitions. On my GitHub profile, you'll find a collection of projects that showcase my dedication to programming and machine learning.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [theeradon\_s@kvis.ac.th](mailto:theeradon_s@kvis.ac.th)
+* ✉️  You can contact me at [theeradon.s@docchula.com](mailto:theeradon.s@docchula.com)
 * 🧠  I'm learning React, Tailwind CSS
 * 🤝  I'm open to collaborating on Medical Related Research & Innovation
 
@@ -21,6 +21,7 @@ src="https://img.shields.io/github/followers/ChampInMyThought?logo=github&style=
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/> </a> </p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
